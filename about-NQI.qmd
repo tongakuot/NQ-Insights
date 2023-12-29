@@ -1,0 +1,83 @@
+---
+title: "Welcome to NileQuantum Insights"
+subtitle: NQI focuses primarily on Data science training, healthcare analytics, and consultancy.
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+**NileQuantum Insights** is a US-based data science and healthcare analytics company founded in 2023 to address healthcare data challenges in South Sudan by providing healthcare analytics solutions and services. 
+
+We’re dedicated to helping healthcare organizations in South Sudan improve the quality of care by leveraging state-of-the-art, open-source software such as R and Python to derive valuable insights from their data. NQI assists healthcare entities in identifying the key metrics that elevate patient outcomes and overall quality of care. Our team possesses extensive experience in healthcare analytics and university-level teaching and is well-versed in U.S. government health policies and regulations. NQI strives to be the primary provider of much-needed healthcare analytics solutions and services.
+
+## Who We Are
+We are a dynamic healthcare analytics and data science organization dedicated to assisting healthcare companies in South Sudan to enhance their patient outcomes and overall quality of care through data-driven, actionable insights. 
+
+::: {.content-container}
+::: {.top-story .purple-background}
+::: grid
+::: {.g-col-12 .g-col-lg-6 .top-story-text}
+ 
+## Our Mission
+Addressing healthcare data challenges in South Sudan with data-driven, actionable insights.
+
+## Our Vision
+NQI is a dynamic healthcare company striving to remain at the forefront of innovation while addressing healthcare analytic challenges with actionable insights derived from data using cutting-edge, open-source software.
+:::
+::: {.g-col-12 .g-col-lg-6 .top-story-img}
+![](images/about-img.png)
+:::
+:::
+:::
+:::
+
+
+## Our Values
+::: {.content-container}
+::: {.top-story .purple-background}
+::: grid
+::: {.g-col-12 .g-col-lg-6 .top-story-img}
+![](images/about-page-img.png)
+:::
+::: {.g-col-12 .g-col-lg-6 .top-story-text}
+**Excellence**
+
+At NQI, we are committed to excellence in all our undertakings. We take pride in delivering high-quality, actionable insights rooted in our firm belief that doing the right thing, as guided by Colossians 3:23-24 and Proverbs 21:3 (NIV), is paramount. Whether in the limelight or behind the scenes, our team adheres to the principles of integrity, ethics, and excellence.
+ 
+**Innovation**
+
+We embrace ingenuity and state-of-the-art technologies to deliver our clients high-caliber data science and analytical solutions to improve patient outcomes and overall care quality.
+
+**Integrity**
+
+We adhere to the highest ethical standards to ensure transparency, integrity, and trust between us and our clients. And to build confidence in our solutions and services.
+
+**Client-Centric**
+
+Our clients’ success is the core of our business. To ensure our clients successfully offer high-quality patient care, we work diligently to understand their data needs better to deliver accurate and reliable solutions beyond their expectations.
+
+:::
+
+:::
+:::
+:::
+
+
+## What We Do
+NQI focuses primarily on Data science training, healthcare analytics, and consultancy. 
+
+### Data Science Training
+The constantly growing amount of health data and the lack of modern healthcare analytic infrastructure pose challenges to healthcare organizations in South Sudan to harness valuable insights from their data. NQI is dedicated to addressing this challenge by offering a well-tailored corporate and group training program to get these organizations up and running with cutting-edge open-source tools to derive valuable insights from their healthcare data...
+
+### Healthcare Analytics
+To elevate the patient quality of care, healthcare organizations must know how to leverage cutting-edge open-source tools to gain valuable insights from healthcare data. NQI helps South Sudanese healthcare companies achieve this with business intelligence and analytic tools such as Plotly Dash, Python Shiny, and R Shiny...
+
+
+### Data Science Consultancy
+Every life touched in healthcare matters, so healthcare providers and companies must adhere to international healthcare best practices. To help healthcare entities in South Sudan upscale their standards of care, NQI is dedicated to providing world-class consultancy services well-aligned with the international standards set forth by the World Health Organization (WHO). Our background in using the CMS ICD9 and ICD10 codes makes us stand out from the competitors...
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/talks/talks/2023/04/18/training-and-workshops.html",
+      "/tutorials/posts/2023/12/12/xmas-cards.html",
+      "/case-studies/posts/2023/11/22/splink.html",
+      "/case-studies/posts/2023/11/16/learning-from-failure.html",
+      "/case-studies/posts/2023/08/21/02-competition-design.html",
+      "/case-studies/posts/2023/08/21/04-second-place-winners.html",
+      "/case-studies/posts/2023/08/21/06-value-of-competitions.html",
+      "/case-studies/posts/2023/08/21/00-food-for-thought.html",
+      "/case-studies/posts/2023/08/21/05-third-place-winners.html",
+      "/case-studies/posts/2023/08/21/03-first-place-winners.html",
+      "/case-studies/posts/2023/08/21/01-purchase-to-plate.html",
+      "/case-studies/posts/2023/06/15/road-to-reproducible-research.html",
+      "/talks/talks/2023/05/18/chatgpt-data-science-pt2.html",
+      "/talks/talks/2023/05/11/chatgpt-data-science-pt1.html",
+      "/tutorials/posts/2023/04/13/flowers.html"
+    ]
+  },
+  {
+    "listing": "/case-studies/index.html",
+    "items": [
+      "/case-studies/posts/2023/11/22/splink.html",
+      "/case-studies/posts/2023/11/16/learning-from-failure.html",
+      "/case-studies/posts/2023/08/21/02-competition-design.html",
+      "/case-studies/posts/2023/08/21/04-second-place-winners.html",
+      "/case-studies/posts/2023/08/21/06-value-of-competitions.html",
+      "/case-studies/posts/2023/08/21/00-food-for-thought.html",
+      "/case-studies/posts/2023/08/21/05-third-place-winners.html",
+      "/case-studies/posts/2023/08/21/03-first-place-winners.html",
+      "/case-studies/posts/2023/08/21/01-purchase-to-plate.html",
+      "/case-studies/posts/2023/06/15/road-to-reproducible-research.html"
+    ]
+  },
+  {
+    "listing": "/latest-news.html",
+    "items": [
+      "/tutorials/posts/2023/12/12/xmas-cards.html",
+      "/case-studies/posts/2023/11/22/splink.html",
+      "/case-studies/posts/2023/11/16/learning-from-failure.html",
+      "/case-studies/posts/2023/08/21/02-competition-design.html",
+      "/case-studies/posts/2023/08/21/04-second-place-winners.html",
+      "/case-studies/posts/2023/08/21/06-value-of-competitions.html",
+      "/case-studies/posts/2023/08/21/00-food-for-thought.html",
+      "/case-studies/posts/2023/08/21/05-third-place-winners.html",
+      "/case-studies/posts/2023/08/21/03-first-place-winners.html",
+      "/case-studies/posts/2023/08/21/01-purchase-to-plate.html",
+      "/case-studies/posts/2023/06/15/road-to-reproducible-research.html",
+      "/tutorials/posts/2023/04/13/flowers.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/talks/2023/04/18/training-and-workshops.html",
+      "/talks/talks/2023/05/18/chatgpt-data-science-pt2.html",
+      "/talks/talks/2023/05/11/chatgpt-data-science-pt1.html"
+    ]
+  },
+  {
+    "listing": "/tutorials/index.html",
+    "items": [
+      "/tutorials/posts/2023/12/12/xmas-cards.html",
+      "/tutorials/posts/2023/04/13/flowers.html"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+---
+title: "Contact us"
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+## Connect with Us
+At NQI, our unwavering commitment is to empower you with meaningful insights from your data, enabling you to enhance patient outcomes and elevate care quality. We strive to make your data work for you through cutting-edge methodologies and personalized approaches. Explore the possibilities with NQI and embark on a journey toward data-driven excellence in healthcare.
+
+**Email:** [info@nilequantuminsights.com](mailto:info@nilequantuminsights.com)
+
+**GitHub:** [@tongakuot](https://github.com/tongakuot)
+
+**Facebook:** [@NileQuantumInsights](https://www.facebook.com/NileQuantumInsights)
+
+**LinkedIn:** [NileQuantum Insights](https://www.linkedin.com/showcase/NileQuantumInsights)
+
+## Business Inquiries
+
+**Email:** [info@nilequantuminsights.com](mailto:@nilequantuminsights.com)

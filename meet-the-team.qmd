@@ -1,0 +1,40 @@
+---
+title: "Meet Our Dedicated Team"
+subtitle: NQI focuses primarily on Data science training, healthcare analytics, and consultancy.
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+
+**NileQuantum Insights** is a US-based data science and healthcare analytics company founded in 2023 to address healthcare data challenges in South Sudan by providing healthcare analytics solutions and services.
+
+We're dedicated to helping healthcare organizations in South Sudan improve the quality of care by leveraging state-of-the-art, open-source software such as R and Python to derive valuable insights from their data.
+NQI assists healthcare entities in identifying the key metrics that elevate patient outcomes and overall quality of care.
+Our team possesses extensive experience in healthcare analytics and university-level teaching and is well-versed in U.S. government health policies and regulations.
+NQI strives to be the primary provider of much-needed healthcare analytics solutions and services.
+
+# NQI Team
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+We\'re dedicated to helping healthcare organizations in South Sudan improve the quality of care by leveraging state-of-the-art, open-source software such as R and Python to derive valuable insights from their data.
+NQI assists healthcare entities in identifying the key metrics that elevate patient outcomes and overall quality of care.
+Our team possesses extensive experience in healthcare analytics and university-level teaching and is well-versed in U.S. government health policies and regulations.
+NQI strives to be the primary provider of much-needed healthcare analytics solutions and services.
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="25%"}
+
+![Alier Reng, Founder](images/areng.jpg){fig-align="right"}
+
+:::
+
+::::

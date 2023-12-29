@@ -1,0 +1,18 @@
+---
+pagetitle: Talks | NileQuantum Insights
+title: Talks
+subtitle: "NQI focuses primarily on Data science training, healthcare analytics, and consultancy." 
+search: false 
+listing:
+  contents:
+  - talks 
+  - "!index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 30
+  feed: true
+---
+While NQI primarily specializes in data science training, healthcare analytics, and consultancy, we extend our commitment to education through personalized tutoring and mentorship services. Our comprehensive tutoring program encompasses various statistics and mathematics courses, including plane trigonometry, college algebra, finite mathematics, mathematical ideas, calculus 1 and 2, pre-calculus, and data science with R and Python. At NQI, we believe in nurturing a learning environment beyond traditional boundaries, ensuring individuals have access to the support they need to excel in their academic and professional pursuits. 

@@ -1,0 +1,193 @@
+---
+pagetitle: "NileQuantum Insights"
+page-layout: custom
+section-divs: false
+editor: source
+sidebar: false
+search: false
+description: | 
+  Professional growth is a journey of self-discovery and goal refinement. Through a thoughtful selection process, you sift through your aspirations, narrowing them down to a manageable number. This deliberate approach allows you to focus on your goals with clarity and determination. ~ Alier Reng
+image: images/logo.png
+listing:
+  - id: latest-news
+    contents: 
+    - /case-studies
+    - /tutorials
+    - /talks
+    - "!index.qmd"
+    - "!rwds-xmas-card.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: case-studies
+    contents: 
+    - /case-studies
+    - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: tutorials
+    contents: 
+    - /tutorials
+    - "!index.qmd"
+    - "!dsb-live.qmd"
+    - "!xmas-cards.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: talks
+    contents:
+    - /talks
+    - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+toc: false
+---
+::: {.content-container}
+:::
+
+::: {.header-text} 
+::: {.content-container}
+::: {.header-block}
+Welcome to **NileQuantum Insights** – your data science, healthcare analytics, mathematics, and statistics hub. We are a dynamic healthcare company striving to remain at the forefront of innovation and concurrently address healthcare analytic challenges with actionable insights derived from data using cutting-edge, open-source software.
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="latest-news.qmd">
+
+## Latest news 
+</a>
+
+::: {#latest-news}
+:::
+
+:::
+:::
+
+::: {.pullout-text}
+::: {.pullout-container}
+::: {.pullout-block .black-background}
+![](images/quote-green.png){width="100px"}
+
+## The greatest value of a picture is when it forces us to notice what we never expected to see. 
+John Tukey
+
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="case-studies/index.qmd">
+
+## Case Studies
+</a> 
+
+::: {#case-studies}
+:::
+
+:::
+:::
+
+::: {.pullout-text}
+::: {.pullout-container}
+::: {.pullout-block .black-background}
+![](images/quote-green.png){width="100px"}
+
+## Professional growth is a journey of self-discovery and goal refinement. Through a thoughtful selection process, you sift through your aspirations, narrowing them down to a manageable number. This deliberate approach allows you to focus on your goals with clarity and determination.  
+Alier Reng
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="tutorials/index.qmd">
+
+## Tutorials
+</a> 
+
+::: {#tutorials}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="talks/index.qmd">
+
+## Talks
+</a>
+
+::: {#talks}
+:::
+
+:::
+:::
+
+::: {.footer-text}
+::: {.footer-container .black-background}
+::: {.footer-block}
+::: grid
+
+
+::: {.g-col-12 .g-col-md-6}
+[![](images/nqi-logo.png){fig-align="left"}](https://nilequantuminsights.com/)
+
+We are a dynamic healthcare analytics and data science organization dedicated to assisting healthcare companies in South Sudan to enhance their patient outcomes and overall quality of care through data-driven, actionable insights.
+:::
+
+::: {.g-col-12 .g-col-md-2}
+<!-- ### Our partners -->
+<!-- [![](images/asa-footer-new.png){fig-align="left"}](https://www.amstat.org/) -->
+<!-- ::: -->
+<!-- ::: {.g-col-12 .g-col-md-2} -->
+<!-- ### With support from  -->
+<!-- [![](images/ati-footer-new.png){fig-align="left"}](https://www.turing.ac.uk/) -->
+:::
+::: {.g-col-12 .g-col-md-2}
+:::
+
+<!-- ::: {.g-col-12 .g-col-md-2} -->
+<!-- ### Contribute -->
+<!-- [Call for contributions](/contributor-docs/call-for-contributions.qmd)\ -->
+<!-- [Contributor guidelines](/contributor-docs/contributor-guidelines.qmd)\ -->
+<!-- [Style guide](/contributor-docs/style-guide.qmd) -->
+<!-- ::: -->
+::: {.g-col-12 .g-col-md-2}
+### About us
+[Who we are](about-NQI.qmd)\
+[Our team](/viewpoints/editors-blog/posts/2022/10/18/meet-the-team.qmd)\
+[Contact us](contact.qmd)
+:::
+
+
+:::
+:::
+:::
+:::

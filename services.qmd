@@ -1,0 +1,85 @@
+---
+title: "What We Do"
+subtitle: NQI focuses primarily on Data science training, healthcare analytics, and consultancy.
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+While NQI primarily specializes in data science training, healthcare analytics, and consultancy, we extend our commitment to education through personalized tutoring and mentorship services. Our comprehensive tutoring program encompasses various statistics and mathematics courses, including plane trigonometry, college algebra, finite mathematics, mathematical ideas, calculus 1 and 2, pre-calculus, and data science with R and Python. At NQI, we believe in nurturing a learning environment beyond traditional boundaries, ensuring individuals have access to the support they need to excel in their academic and professional pursuits. 
+
+## Data Science Training and Workshops
+Our choice of open-source software is advantageous because these tools are free and widely adopted in healthcare, the pharmaceutical industry, finance, academia, and other sectors.
+
+::: {.content-container}
+::: {.top-story .purple-background}
+::: grid
+::: {.g-col-12 .g-col-lg-4 .top-story-img}
+![](imaGES/kevin-canlas-wycXe2BrKz8-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@kvncnls?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kevin Canlas</a> on <a href="https://unsplash.com/photos/a-wooden-desk-topped-with-a-laptop-computer-next-to-a-monitor-wycXe2BrKz8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+  
+:::
+::: {.g-col-12 .g-col-lg-8 .top-story-text}
+ 
+The constantly growing amount of health data and the lack of modern healthcare analytic infrastructure pose challenges to healthcare organizations in South Sudan to harness valuable insights from their data. NQI is dedicated to addressing this challenge by offering a well-tailored corporate and group training program to get these organizations up and running with cutting-edge open-source tools to derive valuable insights from their healthcare data.
+
+To achieve this, we collaborate with your data science team to better your data needs and formulate a strategic action plan, which we execute with a clear understanding of the deliverables. Whether your organization already has its favorite analytic software or not, NQI ensures your data science and analytics teams are proficient in using R or Python to derive meaningful insights from their data, which, in turn, can be used to make informed decisions to improve the quality of care. Our comprehensive training program courses range from basic to advanced, including data science environment setup, fundamentals of R or Python, data wrangling, visualization, and predictive analytics.
+
+:::
+:::
+:::
+:::
+
+
+## Healthcare Analytics
+> The greatest value of a picture is when it forces us to notice what we never expected to see. - John Tukey
+
+::: {.content-container}
+::: {.top-story .purple-background}
+::: grid
+::: {.g-col-12 .g-col-lg-6 .top-story-text}
+To elevate the patient quality of care, healthcare organizations must know how to leverage cutting-edge open-source tools to gain valuable insights from healthcare data. NQI helps South Sudanese healthcare companies achieve this with business intelligence and analytic tools such as Plotly Dash, Python Shiny, and R Shiny.
+
+Understanding data visualization best practices helps data scientists and analysts choose appropriate DataViz tools so that decision-makers will focus on improving patient quality outcomes rather than waste valuable time sifting through a clutter of visuals that add no value.
+
+With over seven years of healthcare analytics, our team ensures you use the right tools for the right job to obtain actionable insights from your data. Both R and Python provide a plethora of visualization tools for publication-ready visuals.
+
+:::
+
+::: {.g-col-12 .g-col-lg-6 .top-story-img}
+![](images/hcanalytics.jpeg)
+:::
+
+:::
+:::
+:::
+
+## Consultancy
+We’re dedicated to helping healthcare organizations in South Sudan improve the quality of care by leveraging state-of-the-art, open-source software such as R and Python to derive valuable insights from their data. NQI assists healthcare entities in identifying the key metrics that elevate patient outcomes and overall quality of care.
+
+::: {.content-container}
+::: {.top-story .purple-background}
+::: grid
+
+::: {.g-col-12 .g-col-lg-6 .top-story-img}
+
+
+![](images/damir-kopezhanov-nC6CyrVBtkU-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@kpzhnv?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Damir Kopezhanov</a> on <a href="https://unsplash.com/photos/people-inside-office-nC6CyrVBtkU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+  
+  
+:::
+
+::: {.g-col-12 .g-col-lg-6 .top-story-text}
+Every life touched in healthcare matters, so healthcare providers and companies must adhere to international healthcare best practices. To help healthcare entities in South Sudan upscale their standards of care, NQI is dedicated to providing world-class consultancy services well-aligned with the international standards set forth by the World Health Organization (WHO). Our background in using the CMS ICD9 and ICD10 codes makes us stand out from the competitors.
+
+Whether your organization already has an analytics team and modern healthcare analytic infrastructure, NQI ensures your system is up-to-date by providing quality assurance and code review expertise. Writing reliable and reproducible code requires a thorough understanding of analytics tools such as R and Python.
+
+:::
+
+:::
+:::
+:::
